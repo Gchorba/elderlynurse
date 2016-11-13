@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/activity_patient_prescription.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/layout/activity_patient_prescription.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/activity_patient_list.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/layout/activity_patient_list.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/patient_filter_spinner_title.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/layout/patient_filter_spinner_title.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_overlay.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/patient_detail_list_item.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/layout/patient_detail_list_item.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_action_bar_home.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_home.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/activity_record_symptoms.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/layout/activity_record_symptoms.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/prescription_list_item.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/layout/prescription_list_item.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/symptoms_list_item.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/layout/symptoms_list_item.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/activity_seen_by_doctor.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/layout/activity_seen_by_doctor.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/activity_record_vital_signs.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/layout/activity_record_vital_signs.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/activity_patient_edit.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/layout/activity_patient_edit.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/activity_patient_add_prescription.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/layout/activity_patient_add_prescription.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tab.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/activity_symptoms.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/layout/activity_symptoms.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_include.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/activity_patient_list_search.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/layout/activity_patient_list_search.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tabbar.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.getpebble/pebblekit/3.0.0/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/doctor_list_item.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/layout/doctor_list_item.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/activity_vital_signs.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/layout/activity_vital_signs.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/vital_signs_list_item.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/layout/vital_signs_list_item.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/patient_list_item.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/layout/patient_list_item.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/activity_patient_detail.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/layout/activity_patient_detail.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/layout/activity_login_dialogue.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/layout/activity_login_dialogue.xml"
+    }
+]

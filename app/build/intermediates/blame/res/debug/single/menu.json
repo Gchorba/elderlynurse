@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/menu/patient_list_nurse.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/menu/patient_list_nurse.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/menu/patient_list_physician.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/menu/patient_list_physician.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/menu/patient_record_symptoms.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/menu/patient_record_symptoms.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/menu/patient_record_vital_signs.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/menu/patient_record_vital_signs.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/menu/patient_edit.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/menu/patient_edit.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/menu/patient_detail.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/menu/patient_detail.xml"
+    },
+    {
+        "merged": "/Users/gene/Desktop/AttHack/healthchecknurse/app/build/intermediates/res/merged/debug/menu/patient_add_prescription.xml",
+        "source": "/Users/gene/Desktop/AttHack/healthchecknurse/app/src/main/res/menu/patient_add_prescription.xml"
+    }
+]
