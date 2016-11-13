@@ -20,8 +20,13 @@ import org.apache.http.client.methods.HttpPost;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.message.BasicNameValuePair;
 
+import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.io.UnsupportedEncodingException;
+import java.net.HttpURLConnection;
+import java.net.URL;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -212,45 +217,9 @@ public class PatientDetailActivity extends ActionBarActivity implements View.OnC
         TextView doctorTextView = (TextView) mDoctorView.findViewById(android.R.id.text1);
         doctorTextView.setText(fLastSeenByDoctor);
 
-        makePostRequest();
     }
 
-    private void makePostRequest() {
 
-
-        HttpClient httpClient = new DefaultHttpClient();
-        // replace with your url
-        HttpPost httpPost = new HttpPost("www.example.com");
-
-
-        //Post Data
-        List<NameValuePair> nameValuePair = new ArrayList<NameValuePair>(2);
-        nameValuePair.add(new BasicNameValuePair("Username", "root"));
-        nameValuePair.add(new BasicNameValuePair("Password", "root"));
-
-
-        //Encoding POST data
-        try {
-            httpPost.setEntity(new UrlEncodedFormEntity(nameValuePair));
-        } catch (UnsupportedEncodingException e) {
-            // log exception
-            e.printStackTrace();
-        }
-
-        //making POST request.
-        try {
-            HttpResponse response = httpClient.execute(httpPost);
-            // write response to log
-            Log.d("Http Post Response:", response.toString());
-        } catch (ClientProtocolException e) {
-            // Log exception
-            e.printStackTrace();
-        } catch (IOException e) {
-            // Log exception
-            e.printStackTrace();
-        }
-
-    }
     /**
      * Sets the text in a container view which contains TextViews with ids @android:id/text1 and @android:id/text2
      *
